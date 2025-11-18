@@ -1,0 +1,4 @@
+Batyr -  I do not really have any CI/CD experience in a formal job setting but I have some experience from prior CS classes where I had to do some of this
+Hudson
+Emma
+Vivian
